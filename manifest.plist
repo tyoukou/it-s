@@ -29,7 +29,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>www..gentyou</string>
+                <string>com.ttp.gentyou</string>
                 <key>bundle-version</key>
                 <string>3.0.2</string>
                 <key>kind</key>
